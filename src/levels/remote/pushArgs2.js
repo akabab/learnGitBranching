@@ -121,7 +121,7 @@ exports.level = {
               "",
               "On en parle souvent comme un refspec. Refspec est juste un nom exotique pour un emplacement que git peut résoudre (comme la branche `foo` ou juste `HEAD~1`)",
               "",
-              "Lorsque vous précisez la source et la destination indémpendamment, vous pouvez être original et précis avec les commandes sur les dépôts distants. Faisons une démo !"
+              "Lorsque vous précisez la source et la destination indépendamment, vous pouvez être original et précis avec les commandes sur les dépôts distants. Faisons une démo !"
             ]
           }
         },
